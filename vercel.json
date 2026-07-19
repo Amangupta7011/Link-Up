@@ -23,7 +23,8 @@
     "env": {
         "APP_KEY": "base64:9eJ4n8hP8L7M0HkI8LwE1E7F2T3W2T3W2T3W2T3W2T3=",
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
+        "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_STORE": "array",
         "QUEU_CONNECTION": "sync",
         "SESSION_DRIVER": "cookie",
