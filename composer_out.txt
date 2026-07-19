@@ -1,0 +1,20 @@
+Installing dependencies from lock file (including require-dev)
+Verifying lock file contents can be installed on current platform.
+Package operations: 130 installs, 0 updates, 0 removals
+    Failed to download carbonphp/carbon-doctrine-types from dist: The zip extension and unzip/7z commands are both missing, skipping.
+The php.ini used by your command-line PHP is: C:\Users\amanr\OneDrive\Desktop\pms\php\php.ini
+    Source fallback is disabled. Not trying alternative sources.
+
+In ZipDownloader.php line 81:
+                             
+  The zip extension and unz  
+  ip/7z commands are both m  
+  issing, skipping.          
+  The php.ini used by your   
+  command-line PHP is: C:\U  
+  sers\amanr\OneDrive\Deskt  
+  op\pms\php\php.ini         
+                             
+
+install [--prefer-source] [--prefer-dist] [--prefer-install PREFER-INSTALL] [--dry-run] [--download-only] [--dev] [--no-suggest] [--no-dev] [--no-security-blocking] [--no-blocking] [--no-autoloader] [--no-progress] [--no-install] [--audit] [--audit-format AUDIT-FORMAT] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--strict-psr-autoloader] [--apcu-autoloader] [--apcu-autoloader-prefix APCU-AUTOLOADER-PREFIX] [--ignore-platform-req IGNORE-PLATFORM-REQ] [--ignore-platform-reqs] [--] [<packages>...]
+
