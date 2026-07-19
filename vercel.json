@@ -21,6 +21,7 @@
         }
     ],
     "env": {
+        "APP_KEY": "base64:9eJ4n8hP8L7M0HkI8LwE1E7F2T3W2T3W2T3W2T3W2T3=",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "CACHE_STORE": "array",
