@@ -28,6 +28,14 @@
         "CACHE_STORE": "array",
         "QUEUE_CONNECTION": "sync",
         "SESSION_DRIVER": "cookie",
-        "LOG_CHANNEL": "stderr"
+        "LOG_CHANNEL": "stderr",
+        "DB_CONNECTION": "sqlite",
+        "BROADCAST_CONNECTION": "reverb",
+        "REVERB_APP_ID": "794711",
+        "REVERB_APP_KEY": "my-reverb-key",
+        "REVERB_APP_SECRET": "my-reverb-secret",
+        "REVERB_HOST": "127.0.0.1",
+        "REVERB_PORT": "8080",
+        "REVERB_SCHEME": "http"
     }
 }
