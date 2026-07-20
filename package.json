@@ -2,10 +2,11 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "dev": "vite"
+        "dev": "vite",
+        "build": "vite build"
     },
     "engines": {
-        "node": "20.x"
+        "node": "24.x"
     },
     "overrides": {
         "lodash.isequal": "npm:lodash@latest"

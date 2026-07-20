@@ -26,7 +26,7 @@
         "APP_DEBUG": "true",
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_STORE": "array",
-        "QUEU_CONNECTION": "sync",
+        "QUEUE_CONNECTION": "sync",
         "SESSION_DRIVER": "cookie",
         "LOG_CHANNEL": "stderr"
     }
