@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Send, File, Paperclip, MoreVertical, Smilies, User as UserIcon } from 'lucide-react';
+import { Send, File, Paperclip, MoreVertical, User as UserIcon } from 'lucide-react';
 import axios from 'axios';
 import clsx from 'clsx';
 import { format } from 'date-fns';
