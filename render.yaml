@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: Link-Up
+    env: php
+    region: oregon
+    plan: free
+    branch: main
+    buildCommand: |
+      composer install --no-dev --no-interaction --prefer-dist
+      npm ci
+      npm run build
+    startCommand: php artisan serve --host 0.0.0.0 --port $PORT
+    autoDeploy: true
+    disk: 512
