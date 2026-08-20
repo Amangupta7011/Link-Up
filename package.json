@@ -17,6 +17,7 @@
         "laravel-echo": "^1.17.0",
         "laravel-vite-plugin": "^1.1.1",
         "postcss": "^8.4.49",
+        "puppeteer-core": "^25.8.0",
         "pusher-js": "^8.4.0",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
@@ -24,9 +25,9 @@
         "vite": "^6.0.3"
     },
     "dependencies": {
-        "lucide-react": "^0.471.0",
-        "date-fns": "^4.1.0",
         "clsx": "^2.1.1",
+        "date-fns": "^4.1.0",
+        "lucide-react": "^0.471.0",
         "tailwind-merge": "^2.6.0"
     }
 }

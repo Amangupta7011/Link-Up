@@ -1,5 +1,7 @@
 # Link-Up
 
+![Link-Up Application Preview](screenshot.png)
+
 Hey! Welcome to Link-Up. This is a real-time chat application I built to experiment with WebSockets, modern UI design, and single-page applications.
 
 It works a lot like WhatsApp or typical messaging platforms. You can create an account, log in, find other registered users, and send messages back and forth instantly. I spent some time really polishing the Tailwind UI (including a custom dark/light mode toggle in the settings) so it feels premium to use.
